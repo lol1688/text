@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎光临 lol1688
 
 You can use the [editor on GitHub](https://github.com/lol1688/text/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
